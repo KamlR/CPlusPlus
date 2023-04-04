@@ -1,0 +1,7 @@
+# ninja log v5
+54	1692	6743450037679824	CMakeFiles/Graphs.dir/main.cpp.obj	666d745792f079
+8	305	6743468942821635	build.ninja	a9f24c6c74b52cdc
+1761	1961	6743450040326064	Graphs.exe	4a51ba7cf6c893a8
+10	1761	6743450038382816	CMakeFiles/Graphs.dir/HouseOfGraphs.cpp.obj	a79862e7b0d58510
+46	1462	6743450035385832	CMakeFiles/Graphs.dir/FileInput.cpp.obj	e196a871a96f3509
+3	1412	6743450034891778	CMakeFiles/Graphs.dir/ConsoleInput.cpp.obj	66096f9cd69dba32
