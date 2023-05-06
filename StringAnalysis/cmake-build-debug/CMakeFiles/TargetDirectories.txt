@@ -1,0 +1,3 @@
+C:/Users/Karina/Documents/Education/Coding/StringAnalysis/cmake-build-debug/CMakeFiles/StringAnalysis.dir
+C:/Users/Karina/Documents/Education/Coding/StringAnalysis/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Karina/Documents/Education/Coding/StringAnalysis/cmake-build-debug/CMakeFiles/rebuild_cache.dir

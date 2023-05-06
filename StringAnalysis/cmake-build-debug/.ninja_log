@@ -1,0 +1,27 @@
+# ninja log v5
+9	2876	7030143072590670	CMakeFiles/StringAnalysis.dir/main.cpp.obj	472f498b7a486a53
+33	2179	7030143065621515	CMakeFiles/StringAnalysis.dir/DataGenerator.cpp.obj	2d52298dfabe184b
+2876	3834	7030143082076174	StringAnalysis.exe	3b769c68ebe8916e
+55	1780	7030045619566638	CMakeFiles/StringAnalysis.dir/PatternSearch.cpp.obj	24a12440603c99d
+9	2539	7030143412365889	CMakeFiles/StringAnalysis.dir/main.cpp.obj	472f498b7a486a53
+2541	3011	7030143417056201	StringAnalysis.exe	3b769c68ebe8916e
+7	1923	7030150097771284	CMakeFiles/StringAnalysis.dir/main.cpp.obj	472f498b7a486a53
+1925	2406	7030150102529668	StringAnalysis.exe	3b769c68ebe8916e
+7	2556	7030152986462705	CMakeFiles/StringAnalysis.dir/main.cpp.obj	472f498b7a486a53
+2561	2976	7030152990631558	StringAnalysis.exe	3b769c68ebe8916e
+7	1596	7030154634995376	CMakeFiles/StringAnalysis.dir/main.cpp.obj	472f498b7a486a53
+1597	2055	7030154639473408	StringAnalysis.exe	3b769c68ebe8916e
+12	2800	7030157498752490	CMakeFiles/StringAnalysis.dir/main.cpp.obj	472f498b7a486a53
+2804	3349	7030157504270525	StringAnalysis.exe	3b769c68ebe8916e
+33	2894	7030168010394633	CMakeFiles/StringAnalysis.dir/main.cpp.obj	472f498b7a486a53
+2896	3486	7030168016112073	StringAnalysis.exe	3b769c68ebe8916e
+9	2270	7030175165473986	CMakeFiles/StringAnalysis.dir/main.cpp.obj	472f498b7a486a53
+2272	2709	7030175169740899	StringAnalysis.exe	3b769c68ebe8916e
+8	3127	7030189951713105	CMakeFiles/StringAnalysis.dir/main.cpp.obj	472f498b7a486a53
+3129	3840	7030189959394277	StringAnalysis.exe	3b769c68ebe8916e
+72	1199	7030277789760141	CMakeFiles/StringAnalysis.dir/PatternSearch.cpp.obj	24a12440603c99d
+59	2091	7030277798902514	CMakeFiles/StringAnalysis.dir/DataGenerator.cpp.obj	2d52298dfabe184b
+31	2616	7030277804155343	CMakeFiles/StringAnalysis.dir/main.cpp.obj	472f498b7a486a53
+2617	3103	7030277808983081	StringAnalysis.exe	3b769c68ebe8916e
+10	3881	7030310856379999	CMakeFiles/StringAnalysis.dir/main.cpp.obj	472f498b7a486a53
+3882	4849	7030310865957812	StringAnalysis.exe	3b769c68ebe8916e
